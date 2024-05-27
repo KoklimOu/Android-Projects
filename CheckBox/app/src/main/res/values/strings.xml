@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sample</string>
+    <string name="delete">delete</string>
+    <string name="select_all">select all</string>
+    <integer name="btnPlusView">1</integer>
+    <integer name="btnPlusPos">2</integer>
+</resources>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp"
+    android:id="@+id/aboutWorkAppFragment"
+    tools:context=".ABoutWorkAppFragment">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_marginTop="25dp">
+
+        <ImageView
+            android:layout_width="125dp"
+            android:layout_height="113dp"
+            android:layout_gravity="center_horizontal"
+            android:contentDescription="@string/brandImage"
+            android:src="@drawable/ic_self_improvement"
+            app:tint="@color/silver" />
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/security_policy_being_applied"
+            android:gravity="center_horizontal"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="230dp"
+            android:layout_marginTop="50dp"
+            android:orientation="vertical"
+            android:background="@drawable/navigation_header_background">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Control Policy"
+                android:layout_gravity="center_horizontal"
+                android:padding="15dp"/>
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/recycleView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:scrollbars="vertical"/>
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+</FrameLayout>

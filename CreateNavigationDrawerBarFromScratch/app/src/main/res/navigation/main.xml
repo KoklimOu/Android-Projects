@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    app:startDestination="@id/aboutWorkApp">
+
+    <fragment
+        android:id="@+id/aboutWorkApp"
+        android:name="com.okl.createnavigationdrawerbarfromscratch.ABoutWorkAppFragment"
+        android:label="About App Work"
+        tools:layout="@layout/fragment_a_bout_work_app" />
+    <fragment
+        android:id="@+id/changePassword"
+        android:name="com.okl.createnavigationdrawerbarfromscratch.ChangePasswordFragment"
+        android:label="Change Password"
+        tools:layout="@layout/fragment_change_password" />
+    <fragment
+        android:id="@+id/termOfService"
+        android:name="com.okl.createnavigationdrawerbarfromscratch.TermOfServiceFragment"
+        android:label="Term of Service"
+        tools:layout="@layout/fragment_term_of_service" />
+    <fragment
+        android:id="@+id/informationUse"
+        android:name="com.okl.createnavigationdrawerbarfromscratch.InformationUseFragment"
+        android:label="Information Use"
+        tools:layout="@layout/fragment_information_use" />
+    <fragment
+        android:id="@+id/appInformation"
+        android:name="com.okl.createnavigationdrawerbarfromscratch.AppInformationFragment"
+        android:label="App Information"
+        tools:layout="@layout/fragment_app_information" />
+</navigation>

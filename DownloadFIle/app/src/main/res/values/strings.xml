@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DownloadFIle</string>
+    <string name="download">Download</string>
+    <string name="install">Install</string>
+</resources>

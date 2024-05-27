@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Create Navigation Drawer Bar From Scratch</string>
+    <string name="about_work_app">About Work App</string>
+    <string name="app_information">App information</string>
+    <string name="information_use">Information Use</string>
+    <string name="term_of_service">Term of Service</string>
+    <string name="change_password">Change Password</string>
+    <string name="other">other</string>
+    <string name="test2">test2</string>
+    <string name="test1">test1</string>
+    <string name="hong_gil_dong">Hong Gil Dong</string>
+    <string name="nine_business_division_planning_department">Nine / Business Division / Planning Department</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="device_shield">Device Shield</string>
+    <string name="brandimage">brandImage</string>
+    <string name="brandImage" />
+    <string name="security_policy_being_applied">Security policy being applied</string>
+    <string name="control_policy">Control Policy</string>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.245018115942029" />
+        <entry key="app/src/main/res/drawable/border.xml" value="0.2705" />
+        <entry key="app/src/main/res/drawable/ic_self_improvement.xml" value="0.2705" />
+        <entry key="app/src/main/res/drawable/navigation_header_background.xml" value="0.2705" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.32421875" />
+        <entry key="app/src/main/res/layout/fragment_a_bout_work_app.xml" value="0.3020833333333333" />
+        <entry key="app/src/main/res/layout/fragment_app_information.xml" value="0.3020833333333333" />
+        <entry key="app/src/main/res/layout/fragment_change_password.xml" value="0.3020833333333333" />
+        <entry key="app/src/main/res/layout/fragment_information_use.xml" value="0.3020833333333333" />
+        <entry key="app/src/main/res/layout/fragment_term_of_service.xml" value="0.3020833333333333" />
+        <entry key="app/src/main/res/layout/layout_navigation_header.xml" value="0.3020833333333333" />
+        <entry key="app/src/main/res/layout/list_policy_adapter.xml" value="0.3020833333333333" />
+        <entry key="app/src/main/res/menu/navigation_menu.xml" value="0.3020833333333333" />
+        <entry key="app/src/main/res/menu/navigatoin_menu.xml" value="0.3020833333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

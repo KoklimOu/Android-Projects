@@ -1,0 +1,26 @@
+<device-admin xmlns:android="http://schemas.android.com/apk/res/android">
+    <uses-policies>
+        <lg-disable-install-app />
+        <lg-disable-uninstall-app />
+        <lg-disable-app />
+        <lg-disable-screen-capture />
+        <lg-disable-bluetooth />
+        <lg-disable-nfc />
+        <lg-disable-usb />
+        <lg-disable-tethering />
+        <lg-disable-external-memory />
+        <lg-disable-gps />
+        <lg-disable-airplane-mode />
+        <lg-disable-data-roaming />
+        <lg-disable-wifi />
+        <lg-disable-microphone />
+        <lg-install-app />
+        <lg-uninstall-app />
+        <lg-prevent-admin />
+        <disable-camera />
+        <wipe-data />
+        <reset-password />
+        <force-lock />
+
+    </uses-policies>
+</device-admin>

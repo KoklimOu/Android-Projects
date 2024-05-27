@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/aboutWorkApp"
+        android:title="@string/about_work_app"/>
+
+    <item
+        android:id="@+id/changePassword"
+        android:title="@string/change_password"/>
+
+    <item
+        android:id="@+id/termOfService"
+        android:title="@string/term_of_service"/>
+
+    <item
+        android:id="@+id/informationUse"
+        android:title="@string/information_use"/>
+
+    <item
+        android:id="@+id/appInformation"
+        android:title="@string/app_information"/>
+
+    <item android:id="@+id/other" android:title="@string/other">
+        <menu>
+            <item
+                android:id="@+id/test1"
+                android:title="@string/test1"
+                />
+            <item
+                android:id="@+id/test12"
+                android:title="@string/test2"
+                />
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AgreementApp</string>
+    <string name="device_shield">Device Shield</string>
+    <string name="agreement_title">In order to use the Device Shield app service, you need to agree to the terms and conditions for the following items.</string>
+    <string name="privacy_cb_text">(Required) Privacy Policy</string>
+    <string name="terms_of_services_cb_txt">(Required) Terms of Service</string>
+    <string name="agree_all_cb_txt">I agree to the full terms and conditions.</string>
+    <string name="i_agree_to_the_full_terms_and_conditions">I agree to the full terms and conditions.</string>
+    <string name="required_terms_of_service">(Required) Terms of Service</string>
+    <string name="required_privacy_policy">(Required) Privacy Policy</string>
+</resources>
